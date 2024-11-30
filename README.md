@@ -1,3 +1,5 @@
 # my first project
 
-hellow
+hello
+
+my name tamar
